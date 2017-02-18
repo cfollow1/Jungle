@@ -3,6 +3,9 @@
 Where the python lives. (Sample data structures and idioms in python)
 
 # Algorithms
-todo
+#### Sorting
+![Sorting Times](/Algorithms/plots/SortPlot.jpg)
+
+
 # Python
 todo
